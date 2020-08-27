@@ -1,0 +1,11 @@
+.box {
+  width: 30px;
+  height: 30px;
+}
+
+#rosso {
+  background-color: red;
+}
+#verde {
+  background-color: green;
+}
